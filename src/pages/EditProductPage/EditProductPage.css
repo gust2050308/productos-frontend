@@ -1,0 +1,16 @@
+.edit-product-page {
+    padding: 40px 0;
+    }
+    .loading, .error {
+    text-align: center;
+    padding: 40px;
+    font-size: 1.2rem;
+    }
+    
+    
+    .loading {
+    color: #1a237e;
+    }
+    .error {
+    color: #c62828;
+    }
